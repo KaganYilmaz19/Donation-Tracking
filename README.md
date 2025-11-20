@@ -1,5 +1,5 @@
-Create database using provided script.
-Convert your password to UTF-8 Bcyrpt type md5.
-Then put it in database.
-On next step, give a username and type role "ADMIN".
+Create database using provided script. <br>
+Convert your password to UTF-8 Bcyrpt type md5.<br>
+Then put it in database.<br>
+On next step, give a username and type role "ADMIN".<br>
 Then you can use program freely.
